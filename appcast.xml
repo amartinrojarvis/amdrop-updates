@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>AMDrop</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Fri, 20 Nov 2026 10:50:33 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Fri, 20 Nov 2026 10:59:04 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[
-- Habilita las actualizaciones nativas con Sparkle. El catálogo y el paquete universal de AMDrop están firmados; el código fuente permanece privado.
-- Enables native Sparkle updates. AMDrop’s feed and universal archive are signed; source remains private.
+- Corrige un bloqueo que impedía arrastrar otro archivo después de cerrar el selector de AirDrop.
+- Fixes a busy state that prevented the next drag after closing the AirDrop picker.
 
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/amartinrojarvis/amdrop-updates/main/0.1.5/AMDrop-0.1.5-universal.zip" length="2874917" type="application/octet-stream" sparkle:edSignature="KT6rEDNADmpxeMGjMJAAXB/JSm/q6jLy6qDaWmn5MWP1DjDp8g749tF1XyY2+Ss1Mwh290ytp4FVutze/FkpCg=="></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/amartinrojarvis/amdrop-updates/main/0.1.6/AMDrop-0.1.6-universal.zip" length="2875516" type="application/octet-stream" sparkle:edSignature="6vSnIvY8xwqGk/ikmx491TQvLkghZT1yIxaTwZCrJxH5C+AlwnHXkMVKMd+E92zwawF74n3ZamEZqWbEQ+GADQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ra0tDPup1KHPDIx4lqME0DcQAngqmJ31wTUieB8hKS4ci8wac3f4NnBv0yW1tptfeyMD1LU2B/G73LbmmtLSBA==
-length: 1401
+edSignature: +6aEgMvFZoLBi1FbphLvK8eqDExkUELl8ASqJ+FXLj4RCnUekwantKX4EbILC9x7eMuo0w7TaNkn44im25BACA==
+length: 1325
 -->

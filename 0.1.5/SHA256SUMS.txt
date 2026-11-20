@@ -1,0 +1,2 @@
+a6d8a5842caf9bcf75fceacea8c554843d65af5d4d8c37f8927e3851690485a2  AMDrop-0.1.5-universal.zip
+4c573e54bae365d634cf9c8a3b8c9f7c144900da4b03678dd361824b4fac64f7  appcast.xml
